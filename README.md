@@ -1,0 +1,1 @@
+# zabbix-agent-6.0
